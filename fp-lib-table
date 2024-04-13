@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "phat3_footprints")(type "KiCad")(uri "${KIPRJMOD}/phat3_footprints.pretty")(options "")(descr ""))
+)
